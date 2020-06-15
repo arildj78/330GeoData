@@ -22261,7 +22261,7 @@
   ],
   "layoutDefinition" : {
     "type" : "CIMLayout",
-    "name" : "330sqn 250k RNAV Chart 36in",
+    "name" : "330sqn M517air 36in",
     "uRI" : "CIMPATH=layout/330sqn_250k_rnav_chart.xml",
     "sourceModifiedTime" : {
       "type" : "TimeInstant"
@@ -26316,7 +26316,7 @@
             "visible" : true,
             "rotationCenter" : {
               "x" : 44.9999999999999929,
-              "y" : 61.5
+              "y" : 61.4999999999999929
             },
             "lockedAspectRatio" : true,
             "graphic" : {
@@ -26383,7 +26383,7 @@
                 ]
               },
               "placement" : "Unspecified",
-              "text" : "330 sqn 250k RNAV Chart - 36\"",
+              "text" : "330 sqn M517air - 36\"",
               "shape" : {
                 "x" : 45,
                 "y" : 61.5

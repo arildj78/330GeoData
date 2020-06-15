@@ -22261,7 +22261,7 @@
   ],
   "layoutDefinition" : {
     "type" : "CIMLayout",
-    "name" : "330sqn 250k RNAV Chart 42in",
+    "name" : "330sqn M517air 42in",
     "uRI" : "CIMPATH=330sqn_250k_rnav_chart1/330sqn_250k_rnav_chart.xml",
     "sourceModifiedTime" : {
       "type" : "TimeInstant"
@@ -26393,7 +26393,7 @@
                 ]
               },
               "placement" : "Unspecified",
-              "text" : "330 sqn 250k RNAV Chart - Store ark (42\")",
+              "text" : "330 sqn M517air - Store ark (42\")",
               "shape" : {
                 "x" : 52.5000000000000071,
                 "y" : 74.5000000000000142
