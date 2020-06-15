@@ -23856,7 +23856,7 @@
             "anchor" : "BottomLeftCorner",
             "locked" : true,
             "name" : "Box 3-M517 2017.02",
-            "visible" : true,
+            "visible" : false,
             "rotationCenter" : {
               "x" : 22.2199999999999989,
               "y" : 0.050000000000003597
@@ -24831,7 +24831,7 @@
             "anchor" : "BottomLeftCorner",
             "locked" : true,
             "name" : "Box 3-M517 2020.07",
-            "visible" : false,
+            "visible" : true,
             "rotationCenter" : {
               "x" : 22.2199999999999989,
               "y" : 0.050878549446197345
