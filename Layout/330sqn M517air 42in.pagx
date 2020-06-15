@@ -22125,7 +22125,7 @@
   ],
   "layoutDefinition" : {
     "type" : "CIMLayout",
-    "name" : "330sqn N250 Air 42in",
+    "name" : "330sqn M517air 42in",
     "uRI" : "CIMPATH=330sqn_250k_rnav_chart___store_ark1/330sqn_250k_rnav_chart___store_ark.xml",
     "sourceModifiedTime" : {
       "type" : "TimeInstant"
@@ -26510,7 +26510,6 @@
       {
         "type" : "CIMGroupElement",
         "anchor" : "BottomLeftCorner",
-        "locked" : true,
         "name" : "Info-Upper",
         "visible" : true,
         "rotationCenter" : {
@@ -26565,7 +26564,6 @@
           {
             "type" : "CIMGraphicElement",
             "anchor" : "LeftMidPoint",
-            "locked" : true,
             "name" : "Page Name Top Left",
             "visible" : true,
             "rotationCenter" : {
@@ -26655,7 +26653,6 @@
           {
             "type" : "CIMGraphicElement",
             "anchor" : "RightMidPoint",
-            "locked" : true,
             "name" : "Page Name Top Right",
             "visible" : true,
             "rotationCenter" : {
@@ -26745,7 +26742,6 @@
           {
             "type" : "CIMGraphicElement",
             "anchor" : "BottomMidPoint",
-            "locked" : true,
             "name" : "AIRAC version",
             "visible" : true,
             "rotationCenter" : {
@@ -26820,7 +26816,6 @@
           {
             "type" : "CIMGroupElement",
             "anchor" : "BottomLeftCorner",
-            "locked" : true,
             "name" : "Box 4",
             "visible" : true,
             "rotationCenter" : {
@@ -26875,7 +26870,6 @@
               {
                 "type" : "CIMGraphicElement",
                 "anchor" : "LeftMidPoint",
-                "locked" : true,
                 "name" : "Date Exported Text",
                 "visible" : true,
                 "rotationCenter" : {
@@ -26958,7 +26952,6 @@
               {
                 "type" : "CIMGraphicElement",
                 "anchor" : "LeftMidPoint",
-                "locked" : true,
                 "name" : "Approved",
                 "visible" : true,
                 "rotationCenter" : {
@@ -27035,7 +27028,6 @@
           {
             "type" : "CIMGraphicElement",
             "anchor" : "BottomLeftCorner",
-            "locked" : true,
             "name" : "Page Name LeftUp",
             "visible" : true,
             "rotationCenter" : {
@@ -27125,7 +27117,6 @@
           {
             "type" : "CIMGraphicElement",
             "anchor" : "BottomRightCorner",
-            "locked" : true,
             "name" : "Page Name RightUp",
             "visible" : true,
             "rotationCenter" : {
@@ -27215,11 +27206,10 @@
           {
             "type" : "CIMGraphicElement",
             "anchor" : "CenterPoint",
-            "locked" : true,
             "name" : "Header",
             "visible" : true,
             "rotationCenter" : {
-              "x" : 52.5,
+              "x" : 52.5082351562500094,
               "y" : 74.5000000000000142
             },
             "lockedAspectRatio" : true,
@@ -27287,9 +27277,9 @@
                 ]
               },
               "placement" : "Unspecified",
-              "text" : "330 sqn N250 Air - Store Ark",
+              "text" : "330 sqn M517air - Store Ark",
               "shape" : {
-                "x" : 52.5000000000000071,
+                "x" : 52.5000000000000142,
                 "y" : 74.5000000000000142
               }
             }
