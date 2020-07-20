@@ -1,0 +1,4 @@
+# The files listed here will be ignored from the git repository
+
+# ArcGis locking files
+*.lock
